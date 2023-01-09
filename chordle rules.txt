@@ -1,0 +1,18 @@
+Rules:
+
+Inputs can be any of these triads/sevenths in any inversion:
+Triads: Major, Minor, Augmented, Diminished
+Sevenths: Major, Dominant, Minor, Half Diminished, Full Diminished
+Inversions: Root, 1st, 2nd, 3rd (for seventh chords)
+Example Triad: C E G
+Example Seventh: C E G B
+White key note names must be captitalized
+Sharp: #
+Double-sharp: x
+Flat: b
+Double-flat: bb
+Put a space in between each note for a valid guess
+
+If a note is yellow, that means that it is in the chord but not the base of the chord
+If a note is green, that means that it is the base of the chord
+If a note is gray, that means that the note is not in the chord
